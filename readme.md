@@ -33,4 +33,4 @@ cargo run
 Feel free to contribute to this repository by creating issues or submitting pull requests. Contributions are always welcome!
 
 ## Contact
-For questions or more information, contact my email: [thiago.lahass@edu.ufes.br].
+For questions or more information, contact [my email](mailto:thiago.lahass@edu.ufes.br).
